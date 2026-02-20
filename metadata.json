@@ -1,0 +1,5 @@
+{
+  "name": "Unnichat Log Manager",
+  "description": "Internal management system for WhatsApp message logs, chips, and campaigns.",
+  "requestFramePermissions": []
+}
